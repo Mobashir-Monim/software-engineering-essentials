@@ -24,4 +24,4 @@ So, the Waterfall process is like building a tower step by step, making sure eac
 
 -   [Advantages of Waterfall](1.%20Advantages.md)
 -   [Disadvantages of Waterfall](2.%20Disadvantages.md)
--   [Example of Waterfall](1.%20Example.md)
+-   [Example of Waterfall](3.%20Example.md)
