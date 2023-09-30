@@ -1,4 +1,4 @@
-# V-Model
+# Iterative Process Model
 
 The Iterative Process Model is a software development approach where a project is divided into smaller cycles or iterations. Each iteration involves a complete development cycle, which includes planning, designing, coding, testing, and deployment of a portion of the software's functionality.Like Incremental process model, Iterative process model is also a **Evolutionary** process model.
 
