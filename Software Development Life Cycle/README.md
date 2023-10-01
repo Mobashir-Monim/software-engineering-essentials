@@ -16,3 +16,7 @@ While there are several SDLC models (also called process models) in existance, w
 1. [Waterfall Process Model](Waterfall%20Process%20Model)
 2. [V-model](V-model)
 3. [Incremental Process Model](Incremental%20Process%20Model)
+4. [Iterative Process Model](Iterative%20Process%20Model)
+5. [Agile Unified Process](AUP)
+6. [Scrum](Scrum)
+7. [Miscellaneous concepts](Misc)
