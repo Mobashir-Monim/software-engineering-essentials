@@ -19,3 +19,14 @@ A few key points that software architecture helps with:
 ---
 
 So, software architecture is like the detailed plan for a computer program, making sure it's well-organized, can communicate, has clear responsibilities, can grow if needed, and is safe to use.
+
+1. [Monolith Architecture](Monolith%20Architecture.md)
+2. [Layered Architecture](Layered%20Architecture.md)
+3. [MVC Architecture](MVC%20Architecture.md)
+4. [Microservice Architecture](Microservice%20Architecture.md)
+5. [CQRS Architecture](CQRS%20Architecture.md)
+6. [Event Driven Architecture](Event%20Driven%20Architecture.md)
+
+#### Honourable Mentions
+
+-   (Domain Driven Design)[Misc/Domain%20Driven%20Design.md]
