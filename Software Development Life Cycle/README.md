@@ -1,6 +1,6 @@
 # Software Development Life Cycle (SDLC)
 
-One way of defining SDLC is that is a systematic process or framework used in the field of software engineering to plan, design, develop, test, deploy, and maintain software applications or systems. It defines the stages, tasks, and activities required to build software from its conceptualization to its delivery and ongoing maintenance. The primary objectives of an SDLC are to ensure the quality, reliability, and predictability of the software development process while meeting project goals and deadlines.
+One way of defining SDLC it is that is a systematic process or framework used in the field of software engineering to plan, design, develop, test, deploy, and maintain software applications or systems. It defines the stages, tasks, and activities required to build software from its conceptualization to its delivery and ongoing maintenance. The primary objectives of an SDLC are to ensure the quality, reliability, and predictability of the software development process while meeting project goals and deadlines.
 
 In a more informal and concise way, we can say that SDLCs basically tells us what steps to follow in order to develop a fully functioning software that the client will accept. It is a way of saying what processes or steps we will follow in order to develop a software.
 
